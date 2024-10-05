@@ -1,8 +1,20 @@
 {
   "canisters": {
-    "motoko_bootcamp_backend": {
-      "main": "src/motoko_bootcamp_backend/main.mo",
+    "task1": {
+      "main": "src/task1/main.mo",
       "type": "motoko"
+    },
+    "task2":{
+      "main":"src/task2/main.mo",
+      "type":"motoko"
+    },
+    "task3":{
+      "main":"src/task3/main.mo",
+      "type":"motoko"
+    },
+    "task4":{
+      "main":"src/task4/main.mo",
+      "type":"motoko"
     }
   },
   "defaults": {
